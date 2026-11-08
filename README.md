@@ -1,12 +1,19 @@
-Ludo Nova 0.1.3 — early access
+# Ludo Nova
 
-- Centered home circles and tokens on one shared board grid.
-- Ad-free practice, pass-and-play, online rooms, teams and tournaments.
-- Persistent wallet, inventory, original boards, dice and token styles.
-- Room messages, optional voice, player reports and blocking.
-- Fixed team forfeits so a departed partner cannot strand a match.
-- Added receipt verification and refund reconciliation safeguards.
-- Google Play installations check for updates through Google Play.
-- Save an account before paid checkout to make purchases recoverable.
+[Download the Android APK (0.1.4)](https://github.com/Benighter/Ludo-Nova-Releases/releases/download/v0.1.4/Ludo-Nova-0.1.4.apk)
 
-Paid checkout is awaiting Google Play purchase testing. All 24 shop products are configured at one fifth of the observed South African reference amounts, rounded to cents. Earned game currency can already unlock cosmetics. Online play requires an internet connection. Voice connects directly between players when their networks allow it.
+Ad-free Ludo and snakes & ladders, with online rooms, pass-and-play and computer practice.
+
+- 24 original Blender board themes, each with Ludo, six-player and snakes-and-ladders layouts.
+- 24 dice skins and 24 sculpted piece styles, plus avatars, frames and reactions.
+- Live 3D dice rolls, square-by-square hops, captures, ladder climbs and snake slides.
+- Full wallet quantities, animated counters and celebrations after confirmed purchases.
+- Persistent account wallet and inventory; device-saved practice games.
+
+This APK is for direct installations. Existing Google Play installations receive updates through Google Play. Android 8.0 or later is required.
+
+Checkout remains limited while Google Play payment testing is completed. The 24 configured South African shop prices are one fifth of the observed reference prices, rounded to cents. Earned coins and diamonds can unlock cosmetics. Google Play shows the final local price before payment.
+
+Online play needs an internet connection. Optional voice connects directly when the players' networks permit it. Source code, signing keys and service credentials remain private.
+
+[Release notes](https://github.com/Benighter/Ludo-Nova-Releases/releases/tag/v0.1.4) · [Update feed](https://github.com/Benighter/Ludo-Nova-Releases/releases/latest/download/update.json)
